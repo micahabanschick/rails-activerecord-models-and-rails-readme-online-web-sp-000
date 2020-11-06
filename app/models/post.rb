@@ -1,2 +1,3 @@
-class Post
+class PostActiveRecord::Base
+end
 end
